@@ -1,0 +1,6 @@
+[submodule "others_src/sketch_simplification"]
+	path = others_src/sketch_simplification
+	url = https://github.com/bobbens/sketch_simplification
+[submodule "others_src/CVPR2017_linedrawings"]
+	path = others_src/CVPR2017_linedrawings
+	url = https://github.com/kaidlc/CVPR2017_linedrawings
