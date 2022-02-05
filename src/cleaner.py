@@ -21,7 +21,8 @@ def main():
             cv2.imwrite(out_file_name, merged_image)
 
     else:
-        print('Please, TODO')
+        print('Warning: Nothing was done!')
+        print('Please, enter "python cleaner.py YOUR_INPUT_FILE_NAME YOUR_OUTPUT_FILE_NAME".')
 
 
 if __name__ == '__main__':
